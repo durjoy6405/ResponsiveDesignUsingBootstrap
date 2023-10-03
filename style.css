@@ -1,0 +1,10 @@
+.custom-border-img{
+    background-color: rgb(199, 199, 199);
+    border-radius: 15px;
+}
+.font-banner{
+    font-size: 70px;
+}
+.font-banner span{
+    color: rgb(247, 164, 40);
+}
